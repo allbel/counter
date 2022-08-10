@@ -1,0 +1,27 @@
+.label {
+    display: block;
+    overflow: hidden;
+    padding: 10px 0;
+}
+
+.label span {
+    color: #63DAFC;
+    font-size: 25px;
+    float: left;
+}
+
+.input {
+    text-align: center;
+    width: 150px;
+    font-size: 20px;
+    line-height: 30px;
+    border-radius: 5px;
+    border: none;
+    float: right;
+    outline: none;
+}
+
+.error {
+    outline: 2px solid red;
+    background-color: lightcoral;
+}
